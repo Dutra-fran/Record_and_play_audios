@@ -1,0 +1,8 @@
+Necessário as seguintes bibliotecas:
+
+	> sounddevice
+		pip install sounddevice
+	> soundfile
+		pip install soundfile
+	> scipy
+		pip install scipy
